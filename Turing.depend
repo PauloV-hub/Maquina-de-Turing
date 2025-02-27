@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1701743127 source:c:\users\paulo\onedrive\햞ea de trabalho\turing\main.cpp
+	<iostream>
+	<vector>
+	"Maquina.hpp"
+
+1700344012 c:\users\paulo\onedrive\햞ea de trabalho\turing\maquina.h
+
+1701742986 source:c:\users\paulo\onedrive\햞ea de trabalho\turing\maquina.cpp
+	<iostream>
+	"Maquina.hpp"
+	<vector>
+	<string>
+
+1701741055 c:\users\paulo\onedrive\햞ea de trabalho\turing\maquina.hpp
+	<vector>
+	<string>
+	"transicao.hpp"
+
+1701656995 c:\users\paulo\onedrive\햞ea de trabalho\turing\transicao.hpp
+	<string>
+
+1701656995 source:c:\users\paulo\onedrive\햞ea de trabalho\turing\transiacao.cpp
+	"transicao.hpp"
+
